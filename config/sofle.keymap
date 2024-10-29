@@ -12,6 +12,10 @@
 #define U_MS_D &mmv MOVE_DOWN
 #define U_MS_L &mmv MOVE_LEFT
 #define U_MS_R &mmv MOVE_RIGHT
+#define KC_WH_U &msc SCROLL_UP
+#define KC_WH_D &msc MOVE_DOWN
+#define KC_WH_L &msc SCROLL_LEFT
+#define KC_WH_R &msc SCROLL_RIGHT
 #define ZMK_MOUSE_DEFAULT_MOVE_VAL 1200  //  600
 #define ZMK_MOUSE_DEFAULT_SCRL_VAL 20    // 10
 
